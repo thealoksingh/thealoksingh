@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Alok%20Kumar%20Singh&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Web&descSize=16&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Alok%20Kumar%20Singh&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Web&descSize=16&descAlignY=55"/>
 
 <p align="center">
   <strong>Building Real-World Scalable Applications</strong>
@@ -203,7 +203,7 @@ A job & task bidding platform connecting freelancers, developers, and workers �
  **Location:** India  
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=190&color=0:1E3A8A,100:3B82F6&text=%&desc=%0AI%20don’t%20just%20write%20code%20—%20I%20build%20systems%20that%20solve%20real-world%20problems.&fontSize=14&fontColor=ffffff"/>
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=190&color=0:1E3A8A,100:3B82F6&text=%&desc=%0AI%20don’t%20just%20write%20code%20—%20I%20build%20systems%20that%20solve%20real-world%20problems.&fontSize=18&fontColor=ffffff"/>
 
 
 
