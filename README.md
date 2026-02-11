@@ -16,7 +16,7 @@
 
 - 💻 **Full Stack Developer** specializing in **Spring Boot & React**
 - 📱 Building **Android & Cross-platform mobile apps**
-- ⚡ Strong in **DSA & Problem Solving (350+ problems solved)**
+- ⚡ Strong in **DSA & Problem Solving (450+ problems solved)**
 - 🌍 Delivered **multiple freelancing & production-grade projects**
 - 🎯 Focused on **clean architecture, performance & SEO-optimized systems**
 
