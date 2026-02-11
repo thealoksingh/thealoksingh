@@ -1,29 +1,157 @@
-![logo](https://github.com/Jaysingh2003/Jaysingh2003/blob/main/banner.jpg)
-<h1 align="center">Hi 👋, I'm Alok Singh</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right"   alt="coding gif" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
+<h1 align="center">Hi 👋, I'm Alok Kumar Singh</h1>
+<h3 align="center">Full Stack Developer | Building Real-World Scalable Applications</h3>
 
-- 🔭 I’m currently Looking for **opportunity**
-
-- 🌱 I’m currently learning **Data structures & Algorithms**
-
-- 💬 Ask me about **Reactjs | Springboot**
-
-- 📫 How to reach me **jay229413@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaysinghpatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaysinghpatel/" height="30" width="40" /></a>
-<a href="https://instagram.com/jaysingh85_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaysingh85_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jay229413/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jay229413/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jay229413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jay229413" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alok-singh-74963b24b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/thealoksingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysingh2003&show_icons=true&locale=en&layout=compact" alt="jaysingh2003" /></p>
+## 🚀 About Me
 
+- 💻 **Full Stack Developer** specializing in **Spring Boot & React**
+- 📱 Building **Android & Cross-platform mobile apps**
+- ⚡ Strong in **DSA & Problem Solving (350+ problems solved)**
+- 🌍 Delivered **multiple freelancing & production-grade projects**
+- 🎯 Focused on **clean architecture, performance & SEO-optimized systems**
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysingh2003&" alt="jaysingh2003" /></p> -->
+## 🛠️ Tech Arsenal
+
+### ⚙ Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+### 🗄 Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 💼 Hisab Kitab (Business Transaction Platform)
+🔗 https://hisab-kitab-business.netlify.app/  
+**Tech:** Java, Spring Boot, React, MySQL, Spring Security, Docker  
+
+**Highlights**
+- Two-way auto transaction sync  
+- OTP-secured authentication  
+- PDF bill generation  
+- Dispute comments & support tickets  
+- Role-based access & secure recovery  
+
+---
+
+### ♻️ Green Roing App (Android & iOS)
+📱 Android: https://play.google.com/store/apps/details?id=com.greenroing  
+🍎 iOS: https://apps.apple.com/us/app/green-roing/id6754807826  
+
+**Tech:** Java, React Native, Spring Boot, MySQL, Redux Toolkit  
+
+**Description**
+A scrap-management app enabling businesses to post scrap rates, users to sell scrap with doorstep pickup, and drivers to manage verified collections with role-based access.
+
+---
+
+### 🌱 Green Roing Web & NGO Platform
+- 🌍 https://greenroing.aigreenfoundation.com/  
+- 🏛️ https://aigreenfoundation.com/  
+
+Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunachal Pradesh)** highlighting sustainability initiatives and impact.
+
+---
+
+### ⚡ EV Care – Charging Station Booking App
+📱 https://play.google.com/store/apps/details?id=com.render.evcare  
+
+**Features**
+- Nearby EV charging station finder  
+- Real-time slot booking  
+- Route optimization  
+- Secure payment & authentication  
+
+---
+
+### 🏘️ Real Estate Lead Generation Platforms
+**SEO-optimized, conversion-focused websites**
+- Schema integration  
+- Google Ads ready  
+- High-performance architecture  
+
+🔗 https://satyammetroshowstoppers.in/  
+🔗 https://godrejkhargar.com/
+
+---
+
+### 🎟️ ShowGo – Event Ticketing Platform
+🌐 https://showgo.in/  
+
+A complete event ticketing ecosystem for **organizers & attendees**, supporting event listing, booking, and management with a smooth user experience.
+
+---
+
+### ♟️ India ChessMind Group (India CMG)
+🌐 http://indiacmg.com/ _(Live • Under Development)_  
+
+A chess development initiative promoting structured training, tournaments, and player growth in India, with special focus on grassroots talent and alignment with FIDE & AICF standards.
+
+---
+
+### 🎬 Jeevan Casting
+🌐 https://jeevancasting.in/ _(Under Development)_  
+
+Official website for a casting company, designed to manage artist discovery and casting workflows.
+
+---
+
+## 🚧 Ongoing Projects
+
+### 🚚 Collaborative Logistics Platform
+- ML-based pricing  
+- Real-time tracking  
+- Multi-user truck booking  
+**Tech:** Spring Boot, React Native, MongoDB  
+
+---
+
+### 💼 Zugado App
+A job & task bidding platform connecting freelancers, developers, and workers — similar to Fiverr / WorkUp.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealoksingh&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** thealoksinghh@gmail.com  
+📍 **Location:** India  
+
+> *“I don’t just write code — I build systems that solve real-world problems.”*
