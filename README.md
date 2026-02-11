@@ -1,8 +1,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=200&section=header&text=Alok%20Kumar%20Singh&fontSize=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Web&descSize=16&descAlignY=65"/>
-<strong>Building Real-World Scalable Applications</strong>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Alok%20Kumar%20Singh&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Web&descSize=16&descAlignY=70"/>
+
+<p align="center">
+  <strong>Building Real-World Scalable Applications</strong>
+</p>
+
 
 </div>
 
@@ -128,7 +132,7 @@ Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunach
 ---
 
 ### EV Care – Charging Station Booking App
-📱 https://play.google.com/store/apps/details?id=com.render.evcare  
+ https://play.google.com/store/apps/details?id=com.render.evcare  
 
 **Features**
 - Nearby EV charging station finder  
@@ -150,21 +154,21 @@ Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunach
 ---
 
 ###  ShowGo – Event Ticketing Platform
-🌐 https://showgo.in/  
+https://showgo.in/  
 
 A complete event ticketing ecosystem for **organizers & attendees**, supporting event listing, booking, and management with a smooth user experience.
 
 ---
 
 ###  India ChessMind Group (India CMG)
-🌐 http://indiacmg.com/ _(Live • Under Development)_  
+http://indiacmg.com/ _(Live • Under Development)_  
 
 A chess development initiative promoting structured training, tournaments, and player growth in India, with special focus on grassroots talent and alignment with FIDE & AICF standards.
 
 ---
 
 ###  Jeevan Casting
-🌐 https://jeevancasting.in/ _(Under Development)_  
+ https://jeevancasting.in/ _(Under Development)_  
 
 Official website for a casting company, designed to manage artist discovery and casting workflows.
 
@@ -185,7 +189,7 @@ A job & task bidding platform connecting freelancers, developers, and workers �
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealoksingh&theme=tokyonight" />
@@ -193,16 +197,15 @@ A job & task bidding platform connecting freelancers, developers, and workers �
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 **Email:** thealoksinghh@gmail.com  
-📍 **Location:** India  
+ **Email:** thealoksinghh@gmail.com  
+ **Location:** India  
 
 <p align="center">
   <strong><em>I don’t just write code — I build systems that solve real-world problems.</em></strong>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=140&section=footer"/>
+
 
 
