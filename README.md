@@ -202,10 +202,10 @@ A job & task bidding platform connecting freelancers, developers, and workers �
  **Email:** thealoksinghh@gmail.com  
  **Location:** India  
 
-<p align="center">
-  <strong><em>I don’t just write code — I build systems that solve real-world problems.</em></strong>
-</p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=140&section=footer"/>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=190&color=0:1E3A8A,100:3B82F6&text=%&desc=%0AI%20don’t%20just%20write%20code%20—%20I%20build%20systems%20that%20solve%20real-world%20problems.&fontSize=18&fontColor=ffffff"/>
+
+
 
 
 
