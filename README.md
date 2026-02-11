@@ -48,6 +48,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## 🧠 Competitive Programming Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/u/thealoksingh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/thealoksinghh" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-5★_Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/profile/thealok75ew" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ## 🏗️ Featured Projects
 
@@ -154,4 +171,7 @@ A job & task bidding platform connecting freelancers, developers, and workers �
 📧 **Email:** thealoksinghh@gmail.com  
 📍 **Location:** India  
 
-> *“I don’t just write code — I build systems that solve real-world problems.”*
+<p align="center">
+  <strong><em>I don’t just write code — I build systems that solve real-world problems.</em></strong>
+</p>
+
