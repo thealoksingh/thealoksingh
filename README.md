@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Kumar Singh</h1>
+<h1 align="center">Hi, I'm Alok Kumar Singh</h1>
 <h3 align="center">Full Stack Developer | Building Real-World Scalable Applications</h3>
 
 <p align="center">
@@ -23,23 +23,44 @@
 ---
 
 ## 🛠️ Tech Arsenal
+### ⚙ Backend (Java Ecosystem)
 
-### ⚙ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat)
+![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-000000?style=flat)
+
 ![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat)
+
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+### 🔄State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/React_Context-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux Persist](https://img.shields.io/badge/Redux_Persist-764ABC?style=flat)
+
+
+
 
 ### 🗄 Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
