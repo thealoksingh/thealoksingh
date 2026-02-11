@@ -161,7 +161,7 @@ A complete event ticketing ecosystem for **organizers & attendees**, supporting 
 ---
 
 ###  India ChessMind Group (India CMG)
-http://indiacmg.com/ _(Live • Under Development)_  
+https://indiacmg.com/ _(Live • Under Development)_  
 
 A chess development initiative promoting structured training, tournaments, and player growth in India, with special focus on grassroots talent and alignment with FIDE & AICF standards.
 
