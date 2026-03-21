@@ -169,7 +169,7 @@ A chess development initiative promoting structured training, tournaments, and p
 ---
 
 ###  Jeevan Casting
- https://jeevancasting.in/ _(Under Development)_  
+ https://jeevancasting.in/ _(LIVE)_  
 
 Official website for a casting company, designed to manage artist discovery and casting workflows.
 
