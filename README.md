@@ -143,7 +143,7 @@ Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunach
 
 ---
 
-###  Real Estate Lead Generation Platforms
+###  Real Estate Lead Generation Platforms _(Live)_  
 **SEO-optimized, conversion-focused websites**
 - Schema integration  
 - Google Ads ready  
@@ -155,14 +155,14 @@ Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunach
 ---
 
 ###  ShowGo – Event Ticketing Platform
-https://showgo.in/  
+https://showgo.in/  _(Live)_  
 
 A complete event ticketing ecosystem for **organizers & attendees**, supporting event listing, booking, and management with a smooth user experience.
 
 ---
 
 ###  India ChessMind Group (India CMG)
-https://indiacmg.com/ _(Live • Under Development)_  
+https://indiacmg.com/ _(Live)_  
 
 A chess development initiative promoting structured training, tournaments, and player growth in India, with special focus on grassroots talent and alignment with FIDE & AICF standards.
 
