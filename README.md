@@ -45,7 +45,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-000000?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
@@ -57,6 +56,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 
 ### Mobile
