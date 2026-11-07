@@ -149,15 +149,20 @@ Landing pages built for **Green Roing** & **AI Green Foundation (NGO – Arunach
 **SEO-optimized, conversion-focused websites**
 - Schema integration  
 - Google Ads ready  
-- High-performance architecture  
+- High-performance architecture
+- Admin Panel  
 
 🔗 https://satyammetroshowstoppers.in/  
 🔗 https://godrejkhargar.com/
 
 ---
+###  Virtual Realty – Real Estate Property Listing Platform (Similar to 99acres)
+🔗 https://virtualrealty.org.in/   _(Live)_  
+
+A full-stack real estate property listing and lead-generation platform featuring a fully customizable website and an admin panel that provides complete control over website pages, content, and property listings.
 
 ###  ShowGo – Event Ticketing Platform
-https://showgo.in/  _(Live)_  
+🔗 https://showgo.in/  _(Live)_  
 
 A complete event ticketing ecosystem for **organizers & attendees**, supporting event listing, booking, and management with a smooth user experience.
 
